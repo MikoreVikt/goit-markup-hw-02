@@ -32,23 +32,42 @@
         color: #212121;
 }
 
-.header .link-nav .link-h-1:hover {
+.header .link-nav .link-header-1:hover {
     color: #2196F3;
 }
-.header .link-nav .link-h-2:hover {
+.header .link-nav .link-header-2:hover {
     color: #2196F3;
 }
-.header .link-nav .link-h-3:hover {
+.header .link-nav .link-header-3:hover {
     color: #2196F3;
 }
-.header .link-nav .link-h-4:hover {
+.header .link-header-4:hover {
     color: #2196F3;
 }
-.header .link-nav .link-h-5:hover {
+.header .link-header-5:hover {
+    color: #2196F3;
+}
+.header .link-nav .link-header-1:focus {
     color: #2196F3;
 }
 
-.link-h-1 {
+.header .link-nav .link-header-2:focus {
+    color: #2196F3;
+}
+
+.header .link-nav .link-header-3:focus {
+    color: #2196F3;
+}
+
+.header .link-header-4:focus {
+    color: #2196F3;
+}
+
+.header .link-header-5:focus {
+    color: #2196F3;
+}
+
+.link-header-1 {
     position: absolute;
         width: 49px;
         height: 16px;
@@ -62,7 +81,7 @@
         letter-spacing: 0.02em;
         color: #212121;
 }
-.link-h-2 {
+.link-header-2 {
     position: absolute;
         width: 77px;
         height: 16px;
@@ -76,7 +95,7 @@
         letter-spacing: 0.02em;
         color: #212121;
 }
-.link-h-3 {
+.link-header-3 {
     position: absolute;
         width: 68px;
         height: 16px;
@@ -90,7 +109,7 @@
         letter-spacing: 0.02em;
         color: #212121;
 }
-.link-h-4 {
+.link-header-4 {
     position: absolute;
         width: 135px;
         height: 16px;
@@ -104,7 +123,7 @@
         letter-spacing: 0.02em;
         color: #757575;
 }
-.link-h-5 {
+.link-header-5 {
     position: absolute;
         width: 122px;
         height: 16px;
@@ -121,14 +140,26 @@
 
 
 /* main */
-.main {
-}
 
 
 /* filters */
 .link-filter:hover {
     color: white;
     background-color: #2196F3;
+}
+.link-filter:focus {
+    color: white;
+    background-color: #2196F3;
+}
+.link-filter {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #212121;
 }
 
 .filter-1 {
@@ -175,79 +206,101 @@
 /* project */
 .project-1 {
     box-sizing: border-box;
-    
-        position: absolute;
-        width: 370px;
-        height: 404px;
-        left: 215px;
-        top: 262px;
-    
-        background: #FFFFFF;
-        border: 1px solid #EEEEEE;
+    position: absolute;
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 262px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-2 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 615px;
     top: 262px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-3 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 1015px;
     top: 262px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-4 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 215px;
     top: 696px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-5 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 615px;
     top: 696px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-6 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 1015px;
     top: 696px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-7 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 215px;
     top: 1130px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-8 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 615px;
     top: 1130px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 .project-9 {
+    box-sizing: border-box;
     position: absolute;
     width: 370px;
-    height: 294px;
+    height: 404px;
     left: 1015px;
     top: 1130px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
 
 
@@ -274,7 +327,7 @@
         letter-spacing: 0.03em;
         color: #212121;
 }
-.link-f-1 {
+.link-footer-1 {
     position: absolute;
         width: 231px;
         height: 21px;
@@ -288,7 +341,7 @@
         letter-spacing: 0.03em;
         color: #FFFFFF;
 }
-.link-f-2 {
+.link-footer-2 {
     position: absolute;
         width: 231px;
         height: 21px;
@@ -302,7 +355,7 @@
         letter-spacing: 0.03em;
         color: rgba(255, 255, 255, 0.6);
 }
-.link-f-3 {
+.link-footer-3 {
     position: absolute;
         width: 231px;
         height: 21px;
@@ -318,5 +371,12 @@
 }
 
 .span {
+    color: #2196F3;
+}
+
+.address:hover {
+    color: #2196F3;
+}
+.address:focus {
     color: #2196F3;
 }
