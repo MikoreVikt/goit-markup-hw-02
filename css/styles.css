@@ -4,7 +4,14 @@
     position: relative;
         width: 1600px;
         height: 2349px;
-    
+        font-family: 'Roboto';
+        background: #FFFFFF;
+}
+.body-2 {
+    position: relative;
+        width: 1600px;
+        height: 1880px;
+        font-family: 'Roboto';
         background: #FFFFFF;
 }
 
@@ -143,20 +150,25 @@
 /* main */
 
 /* section-1 */
+.hero {
+    position: absolute;
+        width: 1600px;
+        height: 600px;
+        left: 0px;
+        top: 80px;
+        background-color: #2F303A;
+}
 .title-1 {
     position: absolute;
     width: 696px;
     height: 120px;
     left: 452px;
-    top: 280px;
-    font-family: 'Roboto';
-    font-style: normal;
+    top: 200px;
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
     text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
+    color: #FFFFFF;
 }
 .button-1 {
     position: absolute;
@@ -182,7 +194,6 @@
     position: absolute;
     width: 1170px;
     height: 101px;
-    left: 215px;
     top: 774px;
 }
 .benefit-1{
@@ -295,6 +306,7 @@
 }
 
 /* team */
+
 .title-team {
     position: absolute;
         width: 264px;
@@ -334,11 +346,7 @@
         left: 1115px;
         top: 1635px;
 }
-.title-card-1 {
-}
-.title-card-2 {}
-.title-card-3 {}
-.title-card-4 {}
+
 
 /* filters */
 .link-filter:hover {
@@ -358,6 +366,9 @@
     text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
+}
+.pointer {
+    cursor: pointer;
 }
 
 .filter-1 {
