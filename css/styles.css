@@ -1,9 +1,10 @@
 
 
-.body {
+.body-1 {
     position: relative;
         width: 1600px;
-        height: 1880px;
+        height: 2349px;
+    
         background: #FFFFFF;
 }
 
@@ -20,16 +21,16 @@
 
 .logo-1 {
     position: absolute;
-        width: 145px;
-        height: 31px;
-        left: 215px;
-        top: 24px;
-        font-family: 'Raleway';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 26px;
-        line-height: 31px;
-        color: #212121;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #212121;
 }
 
 .header .link-nav .link-header-1:hover {
@@ -69,78 +70,275 @@
 
 .link-header-1 {
     position: absolute;
-        width: 49px;
-        height: 16px;
-        left: 453px;
-        top: 32px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 14px;
-        line-height: 16px;
-        letter-spacing: 0.02em;
-        color: #212121;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
 }
 .link-header-2 {
     position: absolute;
-        width: 77px;
-        height: 16px;
-        left: 552px;
-        top: 32px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 14px;
-        line-height: 16px;
-        letter-spacing: 0.02em;
-        color: #212121;
+    width: 77px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
 }
 .link-header-3 {
     position: absolute;
-        width: 68px;
-        height: 16px;
-        left: 679px;
-        top: 32px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 14px;
-        line-height: 16px;
-        letter-spacing: 0.02em;
-        color: #212121;
+    width: 68px;
+    height: 16px;
+    left: 679px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
 }
 .link-header-4 {
     position: absolute;
-        width: 135px;
-        height: 16px;
-        left: 1078px;
-        top: 32px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 14px;
-        line-height: 16px;
-        letter-spacing: 0.02em;
-        color: #757575;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
 }
 .link-header-5 {
     position: absolute;
-        width: 122px;
-        height: 16px;
-        left: 1263px;
-        top: 32px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 14px;
-        line-height: 16px;
-        letter-spacing: 0.02em;
-        color: #757575;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
 }
 
 
 /* main */
 
+/* section-1 */
+.title-1 {
+    position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+.button-1 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+.button-1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+/* cetion-2 */
+.benefits {
+    position: absolute;
+    width: 1170px;
+    height: 101px;
+    left: 215px;
+    top: 774px;
+}
+.benefit-1{
+    position: absolute;
+        width: 270px;
+        height: 101px;
+        left: 215px;
+}
+.benefit-2 {
+    position: absolute;
+        width: 270px;
+        height: 101px;
+        left: 515px;
+}
+.benefit-3 {
+    position: absolute;
+        width: 270px;
+        height: 101px;
+        left: 815px;
+}
+.benefit-4 {
+    position: absolute;
+        width: 270px;
+        height: 101px;
+        left: 1115px;
+}
+
+.title-benefit-1 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #212121;
+}
+.title-benefit-2 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #212121;
+}
+.title-benefit-3 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #212121;
+}
+.title-benefit-4 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #212121;
+}
+.text-benefit-1 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #757575;
+}
+.text-benefit-2 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #757575;
+}
+.text-benefit-3 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #757575;
+}
+.text-benefit-4 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #757575;
+}
+
+/* portfolio */
+
+.title-portfolio {
+    position: absolute;
+        width: 376px;
+        height: 42px;
+        left: 612px;
+        top: 969px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        color: #212121;
+}
+.img-1 {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 215px;
+        top: 1061px;
+}
+.img-2 {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 615px;
+        top: 1061px;
+}
+.img-3 {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 1015px;
+        top: 1061px;
+}
+
+/* team */
+.title-team {
+    position: absolute;
+        width: 264px;
+        height: 42px;
+        left: 668px;
+        top: 1543px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        color: #212121;
+}
+.team-card-1 {
+    position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 215px;
+        top: 1635px;
+}
+.team-card-2 {
+    position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 515px;
+        top: 1635px;
+}
+.team-card-3 {
+    position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 815px;
+        top: 1635px;
+}
+.team-card-4 {
+    position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 1115px;
+        top: 1635px;
+}
+.title-card-1 {
+}
+.title-card-2 {}
+.title-card-3 {}
+.title-card-4 {}
 
 /* filters */
 .link-filter:hover {
@@ -153,13 +351,13 @@
 }
 .link-filter {
     font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 26px;
-        text-align: center;
-        letter-spacing: 0.03em;
-        color: #212121;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
 }
 
 .filter-1 {
@@ -307,76 +505,81 @@
 /* footer */
 .footer {
     position: absolute;
-        width: 1600px;
-        height: 252px;
-        left: 0px;
-        top: 1628px;
-        background: #2F303A;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 1628px;
 }
 .logo-2 {
     position: absolute;
-        width: 145px;
-        height: 31px;
-        left: 215px;
-        top: 1688px;
-        font-family: 'Raleway';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 26px;
-        line-height: 31px;
-        letter-spacing: 0.03em;
-        color: #212121;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 1688px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #212121;
 }
 .link-footer-1 {
     position: absolute;
-        width: 231px;
-        height: 21px;
-        left: 215px;
-        top: 1739px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;
-        color: #FFFFFF;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1739px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #212121
 }
 .link-footer-2 {
     position: absolute;
-        width: 231px;
-        height: 21px;
-        left: 215px;
-        top: 1769px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;
-        color: rgba(255, 255, 255, 0.6);
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1769px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #212121
 }
 .link-footer-3 {
     position: absolute;
-        width: 231px;
-        height: 21px;
-        left: 215px;
-        top: 1799px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;
-        color: rgba(255, 255, 255, 0.6);
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 1799px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #212121
 }
 
 .span {
     color: #2196F3;
 }
 
-.address:hover {
+.address .link-footer-1:hover {
     color: #2196F3;
 }
-.address:focus {
+.address .link-footer-2:hover {
+    color: #2196F3;
+}
+.address .link-footer-3:hover {
+    color: #2196F3;
+}
+.address .link-footer-1:focus {
+    color: #2196F3;
+}
+.address .link-footer-2:focus {
+    color: #2196F3;
+}
+.address .link-footer-3:focus {
     color: #2196F3;
 }
