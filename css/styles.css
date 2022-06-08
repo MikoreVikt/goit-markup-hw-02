@@ -23,18 +23,21 @@ button {border: none;}
 
 /* LOGO-H */
 
-.logo-h {
+.logo {
     font-family: 'Raleway';
     font-weight: 700;
         font-size: 26px;
         line-height: 31px;
         letter-spacing: 0.03em;
-        color: var(--main-text-color);
+        color: var(--accent-color)
 }
-.logo-h .span,
-.logo-f .span {
-    color: var(--accent-color);
+.logo .span-h {
+    color: var(--main-text-color);
 }
+.logo .span-f {
+    color: var(--white-color);
+}
+
 /* HOVER AND FOCUS IN HEADER */
 
 .header .link-nav .link-header-1:hover,
