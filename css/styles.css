@@ -213,14 +213,7 @@ button {border: none;}
 .footer {
     background-color: var(--bg-hd-ft-color);
 }
-.logo-f {
-    font-family: 'Raleway';
-        font-weight: 700;
-        font-size: 26px;
-        line-height: 31px;
-        letter-spacing: 0.03em;
-    color: var(--white-color);
-}
+
 .link-footer-1 {
     font-weight: 400;
         font-size: 14px;
