@@ -17,6 +17,7 @@
 
 a {text-decoration: none;}
 ul {list-style: none;}
+button {border: none;}
 
 /* ! HEADER ! */
 
@@ -183,16 +184,25 @@ ul {list-style: none;}
 }
 .link-filter {
     width: 128px;
-        height: 38px;
+    height: 38px;
     background-color: var(--bg-accent-color);
-    border-radius: 4px;
 }
 
 /* PROJECTS */
 
 .project-list {
     background-color: #EEEEEE;
-    border-radius: 2px;
+}
+.title-project {
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.06em;
+}
+.text-project {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
 }
 
 /* ! FOOTER ! */
