@@ -182,10 +182,12 @@ button {border: none;}
         font-size: 18px;
         line-height: 2;
         letter-spacing: 0.06em;
+        color: var(--main-text-color);
 }
 .text-project {
         font-size: 16px;
         line-height: 1.87;
+        color: var(--main-2-text-color);
 }
 
 /* ! FOOTER ! */
